@@ -11,7 +11,7 @@ Twitter has become an important communication channel in times of emergency. The
 ## Tags
 NLP, machine learning, Exploratory Data Analysis (EDA), data viz, Pandas, matplotlib, seaborn, NLTK, scikit-learn
 
-## Project in a nutshell:
+## Project contents:
 - Data exploration and visualisation:
   - Distribution of the two classes
   - Length of tweets and average number of words
